@@ -1,23 +1,7 @@
 {
-  "commit": "080ce0260d623b8cf118504995b14d22ce742aa8",
-  "generated": "2025-10-26T14:13:23.423Z",
+  "commit": "4428afbb6f19e3fe087ec8767305c09c1b406e6c",
+  "generated": "2025-10-26T15:51:23.975Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "fa0ab841f467a3c0cf07104af39147c762f73521",
-        "hash": "3246361436",
-        "path": "outstatic/content/post1/post1.mdx"
-      },
-      "author": {
-        "name": "Adwiteey Mauriya",
-        "picture": "https://avatars.githubusercontent.com/u/2950174?v=4"
-      },
-      "collection": "post1",
-      "publishedAt": "2025-10-26T14:31:15.918Z",
-      "slug": "post1",
-      "status": "draft",
-      "title": "post1"
-    },
     {
       "__outstatic": {
         "commit": "080ce0260d623b8cf118504995b14d22ce742aa8",
@@ -33,6 +17,22 @@
       "slug": "ghgj",
       "status": "draft",
       "title": "ghgj "
+    },
+    {
+      "__outstatic": {
+        "commit": "4428afbb6f19e3fe087ec8767305c09c1b406e6c",
+        "hash": "3592684566",
+        "path": "outstatic/content/post1/post1.mdx"
+      },
+      "author": {
+        "name": "Adwiteey Mauriya",
+        "picture": "https://avatars.githubusercontent.com/u/2950174?v=4"
+      },
+      "collection": "post1",
+      "publishedAt": "2025-10-26T14:31:15.918Z",
+      "slug": "post1",
+      "status": "draft",
+      "title": "post1"
     }
   ]
 }
