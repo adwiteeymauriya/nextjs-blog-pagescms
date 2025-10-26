@@ -1,6 +1,6 @@
 {
-  "commit": "fa0ab841f467a3c0cf07104af39147c762f73521",
-  "generated": "2025-10-26T14:09:47.365Z",
+  "commit": "080ce0260d623b8cf118504995b14d22ce742aa8",
+  "generated": "2025-10-26T14:13:23.423Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "post1",
       "status": "draft",
       "title": "post1"
+    },
+    {
+      "__outstatic": {
+        "commit": "080ce0260d623b8cf118504995b14d22ce742aa8",
+        "hash": "3724477038",
+        "path": "outstatic/content/hugyg/ghgj.mdx"
+      },
+      "author": {
+        "name": "Adwiteey Mauriya",
+        "picture": "https://avatars.githubusercontent.com/u/2950174?v=4"
+      },
+      "collection": "hugyg",
+      "publishedAt": "2025-10-26T14:34:56.533Z",
+      "slug": "ghgj",
+      "status": "draft",
+      "title": "ghgj "
     }
   ]
 }
