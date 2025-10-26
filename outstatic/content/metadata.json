@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-10-26T14:07:59.036Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "942095878",
+        "path": "outstatic/content/post1/post1.mdx"
+      },
+      "author": {
+        "name": "Adwiteey Mauriya",
+        "picture": "https://avatars.githubusercontent.com/u/2950174?v=4"
+      },
+      "collection": "post1",
+      "publishedAt": "2025-10-26T14:31:15.918Z",
+      "slug": "post1",
+      "status": "draft",
+      "title": "post1"
+    }
+  ]
+}
